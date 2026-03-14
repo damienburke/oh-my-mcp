@@ -1,1 +1,1 @@
-# oh-my-mcp
+# oh-my-mcp - the return
